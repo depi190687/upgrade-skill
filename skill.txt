@@ -1,1 +1,3 @@
 -untuk pengembangan masa depan
+- instalasi react
+-menjalankan program react
